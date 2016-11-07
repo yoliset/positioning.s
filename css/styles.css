@@ -1,0 +1,46 @@
+h1{
+    font-size: 80px;
+    
+    font-family:impact;
+    color: rgb(203, 119, 155);
+}
+a {
+    
+
+   
+    padding: 20px;
+    background-color:rgba(212, 205, 194, 0.95);
+    border-radius: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #F3E3E3;
+    font-family: fantasy;
+    display: inline-block;
+    text-align: center;
+    margin-top: 0px;
+   transition: width 10s;
+    text-decoration:none;
+    cursor: auto;
+    color: black;
+    margin-left: 0px;
+    font-family: cursive;
+    margin-top: 8%;
+    
+
+}
+a:hover {
+   
+    padding-left: 30px;
+    background-color: rgb(203, 119, 155);
+    
+}
+body{
+  
+    background-image: url(images/mio.jpg);
+    background-repeat: no-repeat;
+    z-index: -100;
+text-align:left;
+    
+
+   
+}

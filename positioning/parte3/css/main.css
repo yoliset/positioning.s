@@ -1,0 +1,44 @@
+/* Pon tu código css aqui */
+body {
+    margin: 10px;
+    padding: 0;
+    color: #000;
+    display: block;
+
+    
+}
+    
+
+.tres {
+
+    background-color:#ee3e64;
+    height: 80px;
+    width: 120px;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+
+
+
+.cuatro {
+ 
+    background-color:#44accf;
+    height: 80px;
+    width: 120px;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    left: 12%;
+}
+   
+
+.cinco {
+ 
+    background-color:#b7d84b;
+    height: 80px;
+    width: 120px;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}

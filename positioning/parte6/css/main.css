@@ -1,0 +1,54 @@
+/* Pon tu código css aqui */
+
+div{
+
+    
+    height: 80px;
+    width: 120px;
+    
+    
+    
+}
+body {
+
+    padding: 0px;
+    margin: 0px;
+    
+}
+    
+
+.tres {
+
+    background-color:#ee3e64;
+    position: relative;
+    
+    
+}
+
+
+
+.cuatro {
+ 
+    background-color:#44accf;
+    position: absolute;
+    left: 120px;
+
+    
+}
+   
+
+.cinco {
+ 
+    background-color:#b7d84b;
+    position: relative;
+    
+    
+}
+.seis {
+ 
+    background-color:yellow;
+  
+    position: relative;
+    
+    
+}

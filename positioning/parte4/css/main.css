@@ -1,0 +1,40 @@
+/* Pon tu código css aqui */
+
+div{
+
+    
+    height: 80px;
+    width: 120px;
+    
+    position: relative;
+}
+body {
+
+    padding: 0px;
+    margin: 10px;
+    
+}
+    
+
+.tres {
+
+    background-color:#ee3e64;
+    
+}
+
+
+
+.cuatro {
+ 
+    background-color:#44accf;
+    
+left: 120px;
+    
+}
+   
+
+.cinco {
+ 
+    background-color:#b7d84b;
+    
+}
